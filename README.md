@@ -5,7 +5,9 @@ A plugin for the Summernote WYSIWYG editor
 Adds a responsive video to the summernote WYSIWYG editor.
 
 ## Include JS
+```
 <script src="summernote-responsive-video.js"></script>
+```
 
 <h3>Summernote options</h3>
 ```
