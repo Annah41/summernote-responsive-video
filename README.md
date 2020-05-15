@@ -8,6 +8,7 @@ Adds a responsive video to the summernote WYSIWYG editor.
 <script src="summernote-responsive-video.js"></script>
 
 <h3>Summernote options</h3>
+```
 (document).ready(function() {
     $('#summernote').summernote({
         height: 200,                 // set editor height
@@ -20,3 +21,4 @@ Adds a responsive video to the summernote WYSIWYG editor.
             
     });
 });
+```
