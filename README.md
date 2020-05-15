@@ -9,7 +9,7 @@ Adds a responsive video to the summernote WYSIWYG editor.
 <script src="summernote-responsive-video.js"></script>
 ```
 
-<h3>Summernote options</h3>
+##Summernote options
 ```
 (document).ready(function() {
     $('#summernote').summernote({
