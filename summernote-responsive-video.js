@@ -1,7 +1,6 @@
 /**
  *
- * copyright 2020 Annah Mwangi.
- * email:
+ * copyright 2020 Annah M.
  * license:MIT.
  *
  */
